@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /assets/
+Disallow: *.pdf$
+
+Sitemap: https://ultrachildcare.in/sitemap.xml
